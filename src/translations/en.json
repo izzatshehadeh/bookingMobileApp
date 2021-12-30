@@ -1,0 +1,16 @@
+{   
+    "AppName" :  "Booking"  ,
+    "Home": "Home",
+    "duration" : "duration",
+    "minutes":"minutes",
+    "search":"Search" , 
+    "language":"ع" , 
+    "logout":"Logout" , 
+    "email":"Email" , 
+    "password":"Password" , 
+    "signin":"Sign In " ,
+     "register":"Register" , 
+     "mybookings":"My Bookings",
+     "book":"Book ",
+     "confirmBook":"are you sure you want to book ?"
+   }

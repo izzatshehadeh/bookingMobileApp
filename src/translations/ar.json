@@ -1,0 +1,18 @@
+{  
+    "AppName": "اسم التطبيق",
+    "Home": "اسم التطبيق",
+    "duration" : "المدة الزمنية",
+    "minutes":"د",
+    "search":"بحث" , 
+    "language":"EN" , 
+    "logout":"تسجيل خروج" , 
+    "email":"بريد الالكتروني" , 
+    "password":"كلمة المرور" , 
+    "signin":"تسجيل الدخول " ,
+     "register":"تسجيل" , 
+     "mybookings":"حجوزاتي",
+     "book":"احجز ",
+     "status":"الحالة",
+     "store":"متجر ",
+     "confirmBook":"هل أنت متأكد أنك تريد الحجز؟"
+    }
